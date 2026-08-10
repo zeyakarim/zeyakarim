@@ -405,12 +405,7 @@ My approach is to understand the **business workflow first**, then design the ar
 # 📜 Certifications
 
 <!-- Add your certification cards here -->
-
-<p align="center">
-  <a href="YOUR_CERTIFICATION_LINK">
-    <img src="YOUR_CERTIFICATION_IMAGE" width="45%" />
-  </a>
-</p>
+<p align="center"><img src="./assets/cn-cert-react-frontend.png" width="30%" alt="React Frontend Certification"><img src="./assets/cn-cert-backend.png" width="30%" alt="Backend Certification"><img src="./assets/cn-cert-dbms.png" width="30%" alt="DBMS Certification"></p>
 
 ---
 
