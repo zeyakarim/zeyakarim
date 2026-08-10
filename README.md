@@ -1,169 +1,139 @@
-# Hi, I'm Zeya Karim 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Full Stack Developer - Having fun with Coding" width="100%" />
+</p>
 
-### Software Engineer · Full Stack & Backend Developer
+## Wonderful Intro
 
-I build production-ready web applications, backend systems, and scalable
-platforms from scratch to deployment.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 💻 4+ years of professional software development experience
-- 🚀 Full Stack & Backend Development
-- ☁️ Cloud, DevOps & Production Infrastructure
-- 🏗️ REST APIs, Microservices & Event-Driven Systems
-- 📍 Delhi, India
-- ⚡ Available for immediate joining
+<img src="https://img.shields.io/badge/MY%20PORTFOLIO-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
 
----
+### Hello 👋
 
-## 🧑‍💻 About Me
+- 🎯 I love to build projects, make life easier and fun with code.
+- ❤️ I love contributing to Opensource.
+- 🎨 I'm a content creator on Instagram.
+- 💬 Open to work opportunities.
+- 📌 Follow me on github to stay tuned on my amazing projects.
 
-I'm a Software Engineer focused on building reliable, scalable and
-production-ready applications.
+### Show your Support 💖
 
-My experience spans e-commerce, logistics, warehouse management,
-B2B platforms, business operations and AI-powered engineering automation.
+<a href="https://www.buymeacoffee.com/yourname">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
+</a>
 
-I enjoy working across the complete development lifecycle:
+### Twitter & Discord Community
 
-**Architecture → Development → Database → APIs → Deployment → Maintenance**
+<a href="https://discord.gg/yourinvite">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Follow%20@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+<!-- PROFILE CARD (HTML + image + SVG) -->
+<div align="center">
 
-### Frontend
+<img src="./assets/profile.png" alt="My profile picture" width="170" />
 
-`React.js` `Next.js` `TypeScript` `JavaScript` `Vite`
-`React Query` `Tailwind CSS`
+<br/><br/>
 
-### Backend
+<img src="./assets/stats-card.svg" alt="Articles read stats" width="330" />
 
-`Node.js` `Express.js` `Python` `FastAPI`
-`REST APIs` `Microservices` `RabbitMQ`
+</div>
 
-### Databases
 
-`PostgreSQL` `MongoDB` `Redis` `Supabase`
-`Sequelize` `PostGIS`
-
-### Cloud & DevOps
-
-`AWS` `EC2` `S3` `RDS` `ECS` `ECR`
-`Cloudflare R2` `Nginx` `PM2`
-`Linux` `GitHub Actions` `CI/CD`
-
-### Integrations
-
-`Razorpay` `Google Maps API`
-`Shopify GraphQL` `Vinculum`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## Contribute to My Projects 🚀
 
-### 🛍️ Sappey E-Commerce Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-End-to-end luxury e-commerce platform built from concept to production.
+### 🎙️ Whisper
 
-**Tech:** React.js · TypeScript · Node.js · PostgreSQL · Redis · Razorpay · Cloudflare R2
+A tiny Application to have a random chat with people safely.
 
-- Built the complete platform independently
-- Custom admin portal
-- Razorpay payment integration
-- Shipping integration
-- Product and inventory management
-- Cloudflare R2 media storage
+`JavaScript` &nbsp; ⭐ 10 &nbsp; 🍴 1
 
-🔗 [Live Website](https://sappey.vercel.app/)
+</td>
+<td width="50%" valign="top">
 
----
+### 🎨 Code Magic
 
-### 🚚 GWARM Logistics Platform
+An all in one developer tool that gives you short codes to add Tailwind styles to your projects.
 
-Multi-tenant logistics and fulfillment platform supporting
-Fulfillment Centers, Last-Mile Delivery and Dark Store operations.
+`TypeScript` &nbsp; ⭐ 106 &nbsp; 🍴 126
 
-**Tech:** Node.js · TypeScript · PostgreSQL · RabbitMQ · Redis · AWS · Google Maps API
-
-- Microservices backend architecture
-- RabbitMQ-based workflows
-- Real-time fleet tracking
-- Google Maps and PostGIS integration
-- AWS infrastructure
-- CI/CD automation
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏗️ DEPO24 B2B Platform
-
-B2B commerce and franchise management platform for building materials.
-
-**Tech:** React.js · Node.js · PostgreSQL · MongoDB · GraphQL · Shopify API · Vinculum
-
-- Custom storefront
-- Centralized administration
-- Inventory synchronization
-- Multi-tenant franchise architecture
-- Shopify GraphQL integration
-
----
-
-### 🤖 AI Fire Protection Takeoff Platform
-
-AI-powered engineering automation platform for processing
-DXF, DWG, PDF and image-based fire protection drawings.
-
-**Tech:** Python · FastAPI · OpenCV · NumPy · ezdxf · React · Cloudflare R2
-
-- Engineering symbol detection
-- Drawing processing pipelines
-- OCR fallback
-- Quantity reconciliation
-- CSV report generation
-- Large-file processing
-- React dashboard with real-time processing status
-
----
-
-## 💼 Experience
-
-**Full Stack Engineer — Sappey Foods**  
-2026 — Present
-
-**Senior Full Stack Engineer — GWARM Technologies**  
-2025 — 2026
-
-**Full Stack Developer — DEPO24**  
-2022 — 2025
-
----
-
-## 📊 GitHub Stats
+## My Github Stats && Technologies I use:
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&theme=transparent&hide_border=true"
-    alt="Zeya Karim's GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<table align="center">
+<tr>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /><br/>JavaScript</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /><br/>TypeScript</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" /><br/>HTML5</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="NextJS" /><br/>NextJS</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" alt="Redux" /><br/>Redux</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" /><br/>CSS</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS" /><br/>Tailwind</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="NodeJS" /><br/>NodeJS</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="ExpressJS" /><br/>ExpressJS</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" /><br/>MongoDB</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" /><br/>React</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="42" alt="Adobe XD" /><br/>Adobe XD</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase" /><br/>Firebase</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma" /><br/>Figma</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" alt="SASS" /><br/>SASS</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourhandle&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution graph" width="100%" />
 </p>
 
 ---
 
-## 📌 Currently
+## Connect with me:
 
-- Building production-grade full-stack applications
-- Exploring AI-powered engineering automation
-- Improving system architecture and backend scalability
-- Preparing for new Software Engineering opportunities
+<p align="center">
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" /></a>
+</p>
 
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
-- 🐙 GitHub
-
----
-
-### 💻 Build. Ship. Scale.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourhandle&style=flat-square&color=8b5cf6" alt="Profile views" />
+</p>
