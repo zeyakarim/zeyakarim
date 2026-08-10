@@ -330,12 +330,12 @@ My approach is to understand the **business workflow first**, then design the ar
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"
     width="49%"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyakarim&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyakarim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"
     width="49%"
     alt="Top Languages"
   />
@@ -343,7 +343,7 @@ My approach is to understand the **business workflow first**, then design the ar
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=zeyakarim&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com?user=zeyakarim&hide_border=true&theme=github-dark&hide_border=true" alt="GitHub Streak" height="170"
     width="65%"
     alt="GitHub Streak"
   />
