@@ -354,8 +354,9 @@ My approach is to understand the **business workflow first**, then design the ar
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zeyakarim&hide_border=true&bg_color=00000000&color=888888&line=888888&point=ffffff"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zeyakarim&bg_color=0d1117&color=8b949e&line=39d353&point=ffffff&area=true&hide_border=true"
     width="100%"
+    alt="Zeya Karim's GitHub Contribution Activity"
   />
 </p>
 
