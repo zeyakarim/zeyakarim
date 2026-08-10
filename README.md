@@ -140,8 +140,10 @@ DXF, DWG, PDF and image-based fire protection drawings.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyakarim&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyakarim&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&theme=transparent&hide_border=true"
+    alt="Zeya Karim's GitHub Stats"
+  />
 </p>
 
 ---
