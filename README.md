@@ -1,53 +1,164 @@
-<!-- BANNER -->
+# 👋 Hi, I'm Zeya Karim
+
+### Software Engineer · Full Stack · Backend · Cloud & DevOps
+
+I build **production-ready web applications, scalable backend systems, and end-to-end digital products** — from architecture and database design to APIs, frontend interfaces, cloud infrastructure, CI/CD, and deployment.
+
+With **4+ years of professional experience**, I've worked across **e-commerce, logistics, warehouse management, and business operations**, building systems that solve real-world problems at scale.
+
 <p align="center">
-  <img src="./assets/banner.png" alt="Full Stack Developer - Having fun with Coding" width="100%" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_URL">
+    <img src="https://img.shields.io/badge/Resume-08090b?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
 </p>
 
-## Wonderful Intro
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const zeya = {
+  role: "Software Engineer",
+  experience: "4+ Years",
+  focus: [
+    "Full Stack Development",
+    "Backend Engineering",
+    "Cloud & DevOps",
+    "System Architecture"
+  ],
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Vite"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Python",
+    "FastAPI"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Supabase",
+    "Redis"
+  ],
+
+  architecture: [
+    "REST APIs",
+    "Microservices",
+    "Event-Driven Systems",
+    "Distributed Systems"
+  ],
+
+  cloud: [
+    "AWS",
+    "EC2",
+    "S3",
+    "CloudFront",
+    "Cloudflare R2",
+    "Linux VPS"
+  ],
+
+  devops: [
+    "Docker",
+    "Nginx",
+    "PM2",
+    "GitHub Actions",
+    "CI/CD"
+  ],
+
+  currently: "Building scalable products & exploring new opportunities",
+  availability: "Open to Work"
+};
+```
+
+---
+
+## ⚡ What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/MY%20PORTFOLIO-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="My Portfolio" />
+### 🖥️ Full Stack Engineering
 
-### Hello 👋
+Build complete web applications from **UI to database and deployment**.
 
-- 🎯 I love to build projects, make life easier and fun with code.
-- ❤️ I love contributing to Opensource.
-- 🎨 I'm a content creator on Instagram.
-- 💬 Open to work opportunities.
-- 📌 Follow me on github to stay tuned on my amazing projects.
-
-### Show your Support 💖
-
-<a href="https://www.buymeacoffee.com/yourname">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
-</a>
-
-### Twitter & Discord Community
-
-<a href="https://discord.gg/yourinvite">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Follow%20@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+* React.js & Next.js applications
+* TypeScript-based architectures
+* Admin dashboards & business platforms
+* E-commerce systems
+* Authentication & authorization
+* Payment integrations
+* Search & filtering systems
 
 </td>
+
 <td width="50%" valign="top">
 
-<!-- PROFILE CARD (HTML + image + SVG) -->
-<div align="center">
+### ⚙️ Backend Engineering
 
-<img src="./assets/profile.png" alt="My profile picture" width="170" />
+Design reliable backend systems with a focus on **performance, security and maintainability**.
 
-<br/><br/>
+* RESTful APIs
+* Node.js & Express.js
+* PostgreSQL & MongoDB
+* Redis-based sessions
+* Background processing
+* Microservices
+* Event-driven architecture
+* Third-party API integrations
 
-<img src="./assets/stats-card.svg" alt="Articles read stats" width="330" />
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%" valign="top">
 
+### ☁️ Cloud & DevOps
+
+Take applications from development to **production infrastructure**.
+
+* AWS EC2 / S3 / RDS
+* CloudFront
+* Cloudflare R2
+* Linux VPS
+* Nginx
+* PM2
+* GitHub Actions
+* CI/CD pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ System Engineering
+
+Build systems designed around real business workflows.
+
+* Database architecture
+* Inventory management
+* Order lifecycle systems
+* Logistics & fleet tracking
+* Payment workflows
+* File processing
+* API synchronization
+* Performance optimization
 
 </td>
 </tr>
@@ -55,85 +166,275 @@
 
 ---
 
-## Contribute to My Projects 🚀
+# 🛠️ Technology Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Frontend
 
-### 🎙️ Whisper
-
-A tiny Application to have a random chat with people safely.
-
-`JavaScript` &nbsp; ⭐ 10 &nbsp; 🍴 1
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Code Magic
-
-An all in one developer tool that gives you short codes to add Tailwind styles to your projects.
-
-`TypeScript` &nbsp; ⭐ 106 &nbsp; 🍴 126
-
-</td>
-</tr>
-</table>
-
----
-
-## My Github Stats && Technologies I use:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,html,css,tailwind" />
 </p>
 
-<table align="center">
-<tr>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" /><br/>JavaScript</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /><br/>TypeScript</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" /><br/>HTML5</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="NextJS" /><br/>NextJS</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" alt="Redux" /><br/>Redux</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" /><br/>CSS</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS" /><br/>Tailwind</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="NodeJS" /><br/>NodeJS</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="ExpressJS" /><br/>ExpressJS</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" /><br/>MongoDB</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" /><br/>React</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="42" alt="Adobe XD" /><br/>Adobe XD</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase" /><br/>Firebase</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma" /><br/>Figma</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" alt="SASS" /><br/>SASS</td>
-</tr>
-</table>
+### Backend
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourhandle&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution graph" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,cloudflare,nginx,docker,linux" />
+</p>
+
+### Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm" />
 </p>
 
 ---
 
-## Connect with me:
+# 🚀 Professional Experience
+
+### Full Stack Engineer — Sappey Foods
+
+**Mar 2026 – Present · Remote**
+
+Building a unified commerce platform as a **sole engineer**, handling the complete product lifecycle.
+
+* Architected and developed storefront and administrative systems.
+* Built backend services with **Node.js, PostgreSQL and Supabase**.
+* Implemented payment workflows using **Razorpay**.
+* Designed inventory reservation and order lifecycle logic.
+* Managed production infrastructure on **Linux VPS**.
+* Configured **Nginx, PM2 and Cloudflare R2**.
+* Worked across frontend, backend, database and deployment.
+
+---
+
+### Senior Full Stack Engineer — GWARM Technologies
+
+**Apr 2025 – Feb 2026 · Jaipur, India**
+
+Worked on logistics, fleet management and business operations platforms.
+
+* Led and mentored a team of **6–7 engineers**.
+* Built a Next.js-based super-admin platform.
+* Developed backend microservices using **Node.js & PostgreSQL**.
+* Implemented event-driven workflows using **RabbitMQ**.
+* Built fleet tracking and route-related functionality using **Google Maps API & PostGIS**.
+* Worked with **AWS EC2, S3 and RDS**.
+* Implemented CI/CD pipelines using **GitHub Actions**.
+* Integrated order, inventory and shipment workflows with external platforms.
+
+---
+
+### Full Stack Developer — DEPO24
+
+**Sep 2022 – Feb 2025 · Delhi, India**
+
+Developed an e-commerce and building-material marketplace serving thousands of products.
+
+* Built features for a marketplace with **5,000+ SKUs**.
+* Developed vendor panels and administrative systems.
+* Implemented permission-based access control.
+* Integrated **Shopify GraphQL APIs**.
+* Integrated **Vinculum middleware**.
+* Worked extensively with MongoDB and PostgreSQL.
+* Contributed across frontend, backend and business logic.
+
+---
+
+# 📌 Featured Engineering Work
+
+### 🛒 Unified Commerce Platform
+
+A complete commerce ecosystem covering customer storefronts, administration, inventory, orders and payments.
+
+**Highlights**
+
+* Product & inventory management
+* Order lifecycle management
+* Warehouse workflows
+* Payment integration
+* Admin operations
+* Customer management
+* Cloud object storage
+* Production deployment
+
+**Stack:** `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Razorpay` · `Nginx` · `PM2` · `Cloudflare R2`
+
+---
+
+### 🚚 Logistics & Fleet Management Platform
+
+A business platform designed around fleet operations, order synchronization, route management and shipment workflows.
+
+**Highlights**
+
+* Fleet tracking
+* Route optimization
+* Geospatial queries
+* COD reconciliation
+* Order synchronization
+* Inventory synchronization
+* Shipment management
+* Event-driven backend services
+
+**Stack:** `Next.js` · `Node.js` · `PostgreSQL` · `RabbitMQ` · `PostGIS` · `Google Maps API` · `AWS`
+
+---
+
+### 🏗️ E-Commerce Marketplace
+
+A building-material marketplace supporting thousands of products and multiple operational roles.
+
+**Highlights**
+
+* Product catalogue
+* Vendor management
+* Admin permissions
+* Order workflows
+* External API integrations
+* Shopify integration
+* Middleware synchronization
+
+**Stack:** `React.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Shopify GraphQL`
+
+---
+
+# 🧠 Engineering Philosophy
+
+> **Build it right. Understand the system. Own the outcome.**
+
+I enjoy working on problems where engineering goes beyond writing components or APIs.
+
+My approach is to understand the **business workflow first**, then design the architecture, database, APIs and infrastructure around it.
+
+### I care about:
+
+* Clean and maintainable architecture
+* Reliable backend systems
+* Well-designed database schemas
+* Secure authentication and authorization
+* Transaction-safe business logic
+* API performance
+* Production reliability
+* Developer experience
+* Automated deployment
+* Long-term maintainability
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" /></a>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyakarim&layout=compact&hide_border=true&theme=transparent"
+    width="49%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourhandle&style=flat-square&color=8b5cf6" alt="Profile views" />
+  <img
+    src="https://streak-stats.demolab.com?user=zeyakarim&hide_border=true&theme=transparent"
+    width="65%"
+    alt="GitHub Streak"
+  />
+</p>
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zeyakarim&hide_border=true&bg_color=00000000&color=888888&line=888888&point=ffffff"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🎯 Currently
+
+```text
+▸ Building production-ready full stack applications
+▸ Improving backend architecture & system design
+▸ Exploring scalable distributed systems
+▸ Working with cloud infrastructure & DevOps
+▸ Preparing for the next engineering opportunity
+```
+
+---
+
+# 📚 Areas I'm Exploring
+
+* System Design
+* Distributed Systems
+* Event-Driven Architecture
+* Backend Performance
+* Cloud Architecture
+* Database Optimization
+* Scalable API Design
+* DevOps & Infrastructure Automation
+
+---
+
+# 🏆 Highlights
+
+| Area                          | Experience                                  |
+| ----------------------------- | ------------------------------------------- |
+| 👨‍💻 Professional Experience | **4+ Years**                                |
+| 🏗️ Full Stack Development    | **End-to-End Product Development**          |
+| ⚙️ Backend Engineering        | **Node.js / Express / Python**              |
+| 🗄️ Databases                 | **PostgreSQL / MongoDB / Redis / Supabase** |
+| ☁️ Cloud                      | **AWS / Cloudflare**                        |
+| 🚀 Deployment                 | **Linux / Nginx / PM2 / CI/CD**             |
+| 👥 Leadership                 | **Mentored 6–7 Engineers**                  |
+| 🛒 E-Commerce                 | **5,000+ SKU Marketplace Experience**       |
+
+---
+
+# 📜 Certifications
+
+<!-- Add your certification cards here -->
+
+<p align="center">
+  <a href="YOUR_CERTIFICATION_LINK">
+    <img src="YOUR_CERTIFICATION_IMAGE" width="45%" />
+  </a>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to opportunities involving:
+
+**Full Stack Engineering · Backend Engineering · Software Engineering · Cloud & DevOps**
+
+If you're working on an interesting product, building a technical team, or looking for someone who can take ownership of a system from **idea → architecture → development → deployment**, feel free to reach out.
+
+<p align="center">
+  <a href="https://portfolio-in-nextjs-tau.vercel.app/">Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/zeya-karim-a1362a203/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:zeyakarim79@gmail.com">Email</a>
+  &nbsp; • &nbsp;
+  <a href="https://zeyakarim.github.io/resume.pdf">Resume</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile 👋</b>
+  <br/>
+  <sub>Building software, solving problems, and shipping things that matter.</sub>
 </p>
