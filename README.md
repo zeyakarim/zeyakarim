@@ -7,18 +7,21 @@ I build **production-ready web applications, scalable backend systems, and end-t
 With **4+ years of professional experience**, I've worked across **e-commerce, logistics, warehouse management, and business operations**, building systems around real-world workflows, integrations, and scalable backend architecture.
 
 <p align="center">
-  <a href="https://zeyakarim-me-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/zeya-karim-a1362a203/">
-    <img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zeyakarim79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://zeyakarim.github.io/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-08090b?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+  <a href="https://zeyakarim-me-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/zeya-karim-a1362a203/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:zeyakarim79@gmail.com">
+  <img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://zeyakarim.github.io/resume.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Resume-08090b?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 </p>
 
 ---
