@@ -216,7 +216,45 @@ Building a unified commerce platform as a **sole engineer**, owning the product 
 * Configured **Nginx, PM2, and Cloudflare R2**.
 * Worked end-to-end across architecture, development, and deployment.
 
-**Stack:** `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Razorpay` · `Nginx` · `PM2` · `Cloudflare R2`
+**Stack:**
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=react,tailwind,typescript,nodejs,express,postgres,supabase,redis,rabbitmq,aws,githubactions"
+    height="40"
+    alt="React.js, Tailwind CSS, TypeScript, Node.js, Express.js, PostgreSQL, Supabase, Redis, RabbitMQ, AWS, GitHub Actions"
+  />
+</p>
+
+**Infrastructure & Integrations:**
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"
+    height="28"
+    alt="Socket.IO"
+  />
+  <img
+    src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"
+    height="28"
+    alt="Razorpay"
+  />
+  <img
+    src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
+    height="28"
+    alt="Nginx"
+  />
+  <img
+    src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"
+    height="28"
+    alt="PM2"
+  />
+  <img
+    src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"
+    height="28"
+    alt="Cloudflare R2"
+  />
+</p>
 
 ---
 
@@ -238,7 +276,46 @@ Worked on logistics, fleet management, and business operations platforms while l
 * Integrated order, inventory, and shipment workflows with external platforms.
 * Contributed to scalable backend architecture and business-critical workflows.
 
-**Stack:** `Next.js` · `Node.js` · `PostgreSQL` · `RabbitMQ` · `PostGIS` · `Google Maps API` · `AWS`
+**Stack:**
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,express,postgres,redis,rabbitmq,aws,githubactions"
+    height="40"
+    alt="React.js, Next.js, Tailwind CSS, TypeScript, Node.js, Express.js, PostgreSQL, Redis, RabbitMQ, AWS, GitHub Actions"
+  />
+ 
+</p>
+
+**Infrastructure & Integrations:**
+
+<p>
+   <img
+    src="./assets/SMSA_Express_logo_(English_version).svg.webp"
+    height="40"
+    alt="SMSA Express"
+  />
+  <img
+    src="./assets/salla_logo.svg"
+    height="40"
+    alt="Salla"
+  />
+  <img
+    src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white"
+    height="28"
+    alt="PostGIS"
+  />
+  <img
+    src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"
+    height="28"
+    alt="Google Maps API"
+  />
+  <img
+    src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"
+    height="28"
+    alt="Socket.IO"
+  />
+</p>
 
 ---
 
@@ -259,7 +336,21 @@ Developed an e-commerce and building-material marketplace supporting **5,000+ SK
 * Contributed across frontend, backend, database, and business logic.
 * Built workflows around catalogue, orders, vendors, and operations.
 
-**Stack:** `React.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Shopify GraphQL`
+**Stack:** 
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
+</p>
+
+**Infrastructure & Integrations:**
+<p>
+  <img src="https://cdn.simpleicons.org/shopify" height="40" alt="Shopify" />
+  <img src="./assets/Vinculum-logo-new.svg" height="40" alt="Vinculum" />
+</p>
 
 ---
 
