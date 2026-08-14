@@ -4,7 +4,7 @@
 
 I build **production-ready web applications, scalable backend systems, and end-to-end digital products** — from architecture and database design to APIs, frontend interfaces, cloud infrastructure, CI/CD, and deployment.
 
-With **4+ years of professional experience**, I've worked across **e-commerce, logistics, warehouse management, and business operations**, building systems that solve real-world problems at scale.
+With **4+ years of professional experience**, I've worked across **e-commerce, logistics, warehouse management, and business operations**, building systems around real-world workflows, integrations, and scalable backend architecture.
 
 <p align="center">
   <a href="https://zeyakarim-me-seven.vercel.app/">
@@ -23,17 +23,37 @@ With **4+ years of professional experience**, I've worked across **e-commerce, l
 
 ---
 
+## ⚡ At a Glance
+
+| | |
+|---|---|
+| 👨‍💻 **Experience** | 4+ Years |
+| 🏗️ **Primary Focus** | Full Stack & Backend Engineering |
+| ⚛️ **Frontend** | React.js · Next.js · TypeScript · JavaScript |
+| ⚙️ **Backend** | Node.js · Express.js · Python · FastAPI |
+| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis · Supabase |
+| ☁️ **Cloud** | AWS · Cloudflare · Linux VPS |
+| 🏗️ **Architecture** | REST APIs · Microservices · Event-Driven Systems |
+| 🚀 **Deployment** | Docker · Nginx · PM2 · GitHub Actions · CI/CD |
+| 👥 **Leadership** | Led & Mentored 6–7 Engineers |
+| 🛒 **Domain Experience** | E-commerce · Logistics · Warehouse · Business Operations |
+| 📈 **Scale** | 5,000+ SKU Marketplace Experience |
+| 🟢 **Availability** | Open to Work |                                         |
+
+---
+
 ## 🧑‍💻 About Me
 
 ```ts
 const zeya = {
   role: "Software Engineer",
   experience: "4+ Years",
+
   focus: [
     "Full Stack Development",
     "Backend Engineering",
     "Cloud & DevOps",
-    "System Architecture"
+    "System Architecture",
   ],
 
   frontend: [
@@ -41,37 +61,39 @@ const zeya = {
     "Next.js",
     "TypeScript",
     "JavaScript",
-    "Vite"
+    "Vite",
+    "Tailwind CSS",
   ],
 
   backend: [
     "Node.js",
     "Express.js",
     "Python",
-    "FastAPI"
+    "FastAPI",
   ],
 
   databases: [
     "PostgreSQL",
     "MongoDB",
+    "Redis",
     "Supabase",
-    "Redis"
   ],
 
   architecture: [
     "REST APIs",
     "Microservices",
     "Event-Driven Systems",
-    "Distributed Systems"
+    "Distributed Systems",
   ],
 
   cloud: [
     "AWS",
     "EC2",
     "S3",
+    "RDS",
     "CloudFront",
     "Cloudflare R2",
-    "Linux VPS"
+    "Linux VPS",
   ],
 
   devops: [
@@ -79,90 +101,71 @@ const zeya = {
     "Nginx",
     "PM2",
     "GitHub Actions",
-    "CI/CD"
+    "CI/CD",
   ],
 
   currently: "Building scalable products & exploring new opportunities",
-  availability: "Open to Work"
+  availability: "Open to Work",
 };
 ```
 
 ---
 
-## ⚡ What I Do
+## 🚀 What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🛒 Commerce Platforms
 
-### 🖥️ Full Stack Engineering
+Building complete commerce systems covering:
 
-Build complete web applications from **UI to database and deployment**.
+* Product & catalogue management
+* Inventory management
+* Customer workflows
+* Order lifecycle
+* Warehouse operations
+* Payment processing
+* Administrative platforms
+* External API integrations
 
-* React.js & Next.js applications
-* TypeScript-based architectures
-* Admin dashboards & business platforms
-* E-commerce systems
-* Authentication & authorization
-* Payment integrations
-* Search & filtering systems
+### 🚚 Logistics & Operations Platforms
 
-</td>
+Engineering systems around:
 
-<td width="50%" valign="top">
+* Fleet management
+* Shipment workflows
+* Route management
+* Geospatial operations
+* Order synchronization
+* Inventory synchronization
+* COD reconciliation
+* Business operations
 
-### ⚙️ Backend Engineering
+### ⚙️ Backend Systems
 
-Design reliable backend systems with a focus on **performance, security and maintainability**.
+Designing backend systems with:
 
 * RESTful APIs
 * Node.js & Express.js
 * PostgreSQL & MongoDB
-* Redis-based sessions
-* Background processing
+* Redis
 * Microservices
 * Event-driven architecture
-* Third-party API integrations
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+* Background processing
+* Third-party integrations
+* Transaction-safe business logic
 
 ### ☁️ Cloud & DevOps
 
-Take applications from development to **production infrastructure**.
+Taking applications from development to production through:
 
-* AWS EC2 / S3 / RDS
-* CloudFront
-* Cloudflare R2
+* AWS infrastructure
 * Linux VPS
 * Nginx
 * PM2
+* Docker
+* Cloudflare
 * GitHub Actions
 * CI/CD pipelines
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ System Engineering
-
-Build systems designed around real business workflows.
-
-* Database architecture
-* Inventory management
-* Order lifecycle systems
-* Logistics & fleet tracking
-* Payment workflows
-* File processing
-* API synchronization
-* Performance optimization
-
-</td>
-</tr>
-</table>
+* Production deployment
 
 ---
 
@@ -171,52 +174,59 @@ Build systems designed around real business workflows.
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
 ### Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,cloudflare,nginx,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,cloudflare,nginx,docker,linux" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm" />
 </p>
 
 ---
 
-# 🚀 Professional Experience
+# 💼 Professional Experience
 
-### Full Stack Engineer — Sappey Foods
+## Full Stack Engineer — Sappey Foods
 
 **Mar 2026 – Present · Remote**
 
-Building a unified commerce platform as a **sole engineer**, handling the complete product lifecycle.
+Building a unified commerce platform as a **sole engineer**, owning the product lifecycle across frontend, backend, database, infrastructure, and deployment.
 
-* Architected and developed storefront and administrative systems.
-* Built backend services with **Node.js, PostgreSQL and Supabase**.
+### Key Contributions
+
+* Architected and developed customer-facing and administrative systems.
+* Built backend services using **Node.js, PostgreSQL and Supabase**.
 * Implemented payment workflows using **Razorpay**.
 * Designed inventory reservation and order lifecycle logic.
+* Built product, customer, order and operational workflows.
 * Managed production infrastructure on **Linux VPS**.
 * Configured **Nginx, PM2 and Cloudflare R2**.
-* Worked across frontend, backend, database and deployment.
+* Worked end-to-end across architecture, development and deployment.
+
+**Stack:** `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Razorpay` · `Nginx` · `PM2` · `Cloudflare R2`
 
 ---
 
-### Senior Full Stack Engineer — GWARM Technologies
+## Senior Full Stack Engineer — GWARM Technologies
 
 **Apr 2025 – Feb 2026 · Jaipur, India**
 
-Worked on logistics, fleet management and business operations platforms.
+Worked on logistics, fleet management and business operations platforms while leading and mentoring a team of **6–7 engineers**.
+
+### Key Contributions
 
 * Led and mentored a team of **6–7 engineers**.
 * Built a Next.js-based super-admin platform.
@@ -226,70 +236,80 @@ Worked on logistics, fleet management and business operations platforms.
 * Worked with **AWS EC2, S3 and RDS**.
 * Implemented CI/CD pipelines using **GitHub Actions**.
 * Integrated order, inventory and shipment workflows with external platforms.
+* Contributed to scalable backend architecture and business-critical workflows.
+
+**Stack:** `Next.js` · `Node.js` · `PostgreSQL` · `RabbitMQ` · `PostGIS` · `Google Maps API` · `AWS`
 
 ---
 
-### Full Stack Developer — DEPO24
+## Full Stack Developer — DEPO24
 
 **Sep 2022 – Feb 2025 · Delhi, India**
 
-Developed an e-commerce and building-material marketplace serving thousands of products.
+Developed an e-commerce and building-material marketplace supporting **5,000+ SKUs** and multiple operational roles.
 
-* Built features for a marketplace with **5,000+ SKUs**.
+### Key Contributions
+
+* Built features for a marketplace supporting **5,000+ SKUs**.
 * Developed vendor panels and administrative systems.
 * Implemented permission-based access control.
 * Integrated **Shopify GraphQL APIs**.
 * Integrated **Vinculum middleware**.
 * Worked extensively with MongoDB and PostgreSQL.
-* Contributed across frontend, backend and business logic.
+* Contributed across frontend, backend, database and business logic.
+* Built workflows around catalogue, orders, vendors and operations.
+
+**Stack:** `React.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Shopify GraphQL`
 
 ---
 
 # 📌 Featured Engineering Work
 
-### 🛒 Unified Commerce Platform
+## 🛒 Unified Commerce Platform
 
 A complete commerce ecosystem covering customer storefronts, administration, inventory, orders and payments.
 
-**Highlights**
+### Engineering Highlights
 
 * Product & inventory management
 * Order lifecycle management
 * Warehouse workflows
 * Payment integration
-* Admin operations
 * Customer management
+* Administrative operations
 * Cloud object storage
 * Production deployment
+* Transaction-aware business workflows
 
 **Stack:** `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Razorpay` · `Nginx` · `PM2` · `Cloudflare R2`
 
 ---
 
-### 🚚 Logistics & Fleet Management Platform
+## 🚚 Logistics & Fleet Management Platform
 
 A business platform designed around fleet operations, order synchronization, route management and shipment workflows.
 
-**Highlights**
+### Engineering Highlights
 
 * Fleet tracking
-* Route optimization
+* Route management
 * Geospatial queries
 * COD reconciliation
 * Order synchronization
 * Inventory synchronization
 * Shipment management
 * Event-driven backend services
+* External platform integrations
 
 **Stack:** `Next.js` · `Node.js` · `PostgreSQL` · `RabbitMQ` · `PostGIS` · `Google Maps API` · `AWS`
 
 ---
 
-### 🏗️ E-Commerce Marketplace
+## 🏗️ E-Commerce Marketplace
 
 A building-material marketplace supporting thousands of products and multiple operational roles.
 
-**Highlights**
+### Engineering Highlights
 
 * Product catalogue
 * Vendor management
@@ -298,6 +318,7 @@ A building-material marketplace supporting thousands of products and multiple op
 * External API integrations
 * Shopify integration
 * Middleware synchronization
+* Multi-role business operations
 
 **Stack:** `React.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Shopify GraphQL`
 
@@ -311,7 +332,7 @@ I enjoy working on problems where engineering goes beyond writing components or 
 
 My approach is to understand the **business workflow first**, then design the architecture, database, APIs and infrastructure around it.
 
-### I care about:
+### I care about
 
 * Clean and maintainable architecture
 * Reliable backend systems
@@ -330,24 +351,28 @@ My approach is to understand the **business workflow first**, then design the ar
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"
-    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=zeyakarim&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
     alt="GitHub Statistics"
+    height="170"
+    width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyakarim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"
-    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeyakarim&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
+    height="170"
+    width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=zeyakarim&hide_border=true&theme=github-dark&hide_border=true" alt="GitHub Streak" height="170"
-    width="65%"
+    src="https://streak-stats.demolab.com?user=zeyakarim&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
+    height="170"
+    width="65%"
   />
 </p>
+
 ---
 
 # 📈 Contribution Activity
@@ -369,7 +394,8 @@ My approach is to understand the **business workflow first**, then design the ar
 ▸ Improving backend architecture & system design
 ▸ Exploring scalable distributed systems
 ▸ Working with cloud infrastructure & DevOps
-▸ Preparing for the next engineering opportunity
+▸ Exploring AI-powered engineering workflows
+▸ Open to the next engineering opportunity
 ```
 
 ---
@@ -384,28 +410,27 @@ My approach is to understand the **business workflow first**, then design the ar
 * Database Optimization
 * Scalable API Design
 * DevOps & Infrastructure Automation
+* AI-powered Developer Tools
 
 ---
 
-# 🏆 Highlights
+# 🎓 Education
 
-| Area                          | Experience                                  |
-| ----------------------------- | ------------------------------------------- |
-| 👨‍💻 Professional Experience | **4+ Years**                                |
-| 🏗️ Full Stack Development    | **End-to-End Product Development**          |
-| ⚙️ Backend Engineering        | **Node.js / Express / Python**              |
-| 🗄️ Databases                 | **PostgreSQL / MongoDB / Redis / Supabase** |
-| ☁️ Cloud                      | **AWS / Cloudflare**                        |
-| 🚀 Deployment                 | **Linux / Nginx / PM2 / CI/CD**             |
-| 👥 Leadership                 | **Mentored 6–7 Engineers**                  |
-| 🛒 E-Commerce                 | **5,000+ SKU Marketplace Experience**       |
+**Bachelor of Technology — Computer Science & Engineering**
+
+**Yamuna Institute of Engineering and Technology, Yamunanagar, Haryana**
+
+**First Class with Honours**
 
 ---
 
 # 📜 Certifications
 
-<!-- Add your certification cards here -->
-<p align="center"><img src="./assets/cn-cert-react-frontend.png" width="30%" alt="React Frontend Certification"><img src="./assets/cn-cert-backend.png" width="30%" alt="Backend Certification"><img src="./assets/cn-cert-dbms.png" width="30%" alt="DBMS Certification"></p>
+<p align="center">
+  <img src="./assets/cn-cert-react-frontend.png" width="30%" alt="React Frontend Certification" />
+  <img src="./assets/cn-cert-backend.png" width="30%" alt="Backend Certification" />
+  <img src="./assets/cn-cert-dbms.png" width="30%" alt="DBMS Certification" />
+</p>
 
 ---
 
@@ -415,7 +440,7 @@ I'm open to opportunities involving:
 
 **Full Stack Engineering · Backend Engineering · Software Engineering · Cloud & DevOps**
 
-If you're working on an interesting product, building a technical team, or looking for someone who can take ownership of a system from **idea → architecture → development → deployment**, feel free to reach out.
+If you're building an interesting product, growing a technical team, or looking for someone who can take ownership of a system from **idea → architecture → development → deployment**, feel free to reach out.
 
 <p align="center">
   <a href="https://zeyakarim-me-seven.vercel.app/">Portfolio</a>
