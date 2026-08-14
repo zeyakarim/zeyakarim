@@ -8,109 +8,106 @@ With **4+ years of professional experience**, I've worked across **e-commerce, l
 
 <p align="center">
   <a href="https://zeyakarim-me-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/zeya-karim-a1362a203/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:zeyakarim79@gmail.com">
-  <img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://zeyakarim.github.io/resume.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Resume-08090b?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-08090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/zeya-karim-a1362a203/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-08090b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zeyakarim79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://zeyakarim.github.io/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-08090b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
 
 ## ⚡ At a Glance
 
-| | |
-|---|---|
-| 👨‍💻 **Experience** | 4+ Years |
-| 🏗️ **Primary Focus** | Full Stack & Backend Engineering |
-| ⚛️ **Frontend** | React.js · Next.js · TypeScript · JavaScript |
-| ⚙️ **Backend** | Node.js · Express.js · Python · FastAPI |
-| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis · Supabase |
-| ☁️ **Cloud** | AWS · Cloudflare · Linux VPS |
-| 🏗️ **Architecture** | REST APIs · Microservices · Event-Driven Systems |
-| 🚀 **Deployment** | Docker · Nginx · PM2 · GitHub Actions · CI/CD |
-| 👥 **Leadership** | Led & Mentored 6–7 Engineers |
+|                          |                                                          |
+| ------------------------ | -------------------------------------------------------- |
+| 👨‍💻 **Experience**     | 4+ Years                                                 |
+| 🏗️ **Primary Focus**    | Full Stack & Backend Engineering                         |
+| ⚛️ **Frontend**          | React.js · Next.js · TypeScript · JavaScript             |
+| ⚙️ **Backend**           | Node.js · Express.js · Python · FastAPI                  |
+| 🗄️ **Databases**        | PostgreSQL · MongoDB · Redis · Supabase                  |
+| ☁️ **Cloud**             | AWS · Cloudflare · Linux VPS                             |
+| 🏗️ **Architecture**     | REST APIs · Microservices · Event-Driven Systems         |
+| 🚀 **Deployment**        | Docker · Nginx · PM2 · GitHub Actions · CI/CD            |
+| 👥 **Leadership**        | Led & Mentored 6–7 Engineers                             |
 | 🛒 **Domain Experience** | E-commerce · Logistics · Warehouse · Business Operations |
-| 📈 **Scale** | 5,000+ SKU Marketplace Experience |
-| 🟢 **Availability** | Open to Work |                                         |
+| 📈 **Scale**             | 5,000+ SKU Marketplace Experience                        |
+| 🟢 **Availability**      | Open to Work                                             |
 
 ---
 
 ## 🧑‍💻 About Me
 
-```ts
-const zeya = {
-  role: "Software Engineer",
-  experience: "4+ Years",
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  focus: [
-    "Full Stack Development",
-    "Backend Engineering",
-    "Cloud & DevOps",
-    "System Architecture",
-  ],
+### 👋 Who I Am
 
-  frontend: [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Vite",
-    "Tailwind CSS",
-  ],
+I'm a **Software Engineer focused on Full Stack and Backend Engineering**, with **4+ years of professional experience** building production systems.
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "Python",
-    "FastAPI",
-  ],
+My experience spans:
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "Redis",
-    "Supabase",
-  ],
+* 🛒 E-commerce & commerce platforms
+* 🚚 Logistics & fleet management
+* 📦 Warehouse & inventory systems
+* ⚙️ Business operations platforms
 
-  architecture: [
-    "REST APIs",
-    "Microservices",
-    "Event-Driven Systems",
-    "Distributed Systems",
-  ],
+I enjoy taking ownership of products from **architecture → development → deployment**.
 
-  cloud: [
-    "AWS",
-    "EC2",
-    "S3",
-    "RDS",
-    "CloudFront",
-    "Cloudflare R2",
-    "Linux VPS",
-  ],
+</td>
 
-  devops: [
-    "Docker",
-    "Nginx",
-    "PM2",
-    "GitHub Actions",
-    "CI/CD",
-  ],
+<td width="50%" valign="top">
 
-  currently: "Building scalable products & exploring new opportunities",
-  availability: "Open to Work",
-};
-```
+### 🎯 How I Work
+
+I start with the **business problem and workflow**, then design the technical solution around it.
+
+My focus is on:
+
+* Scalable architecture
+* Reliable backend systems
+* Clean database design
+* Secure APIs
+* Maintainable code
+* Production reliability
+* Automated deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Engineering Mindset
+
+I enjoy working beyond individual features — understanding how the **frontend, backend, database, infrastructure, and business logic** work together as one system.
+
+I care about building software that is not only functional, but also **reliable, maintainable, and ready for production**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Currently
+
+Building scalable products, improving backend architecture, exploring distributed systems, and working with cloud infrastructure & DevOps.
+
+<br />
+
+🟢 **Open to Work**
+
+**Full Stack · Backend · Software Engineering · Cloud & DevOps**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -177,32 +174,32 @@ Taking applications from development to production through:
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,html,css,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend Technologies" />
 </p>
 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,cloudflare,nginx,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,cloudflare,nginx,docker,linux" alt="Databases and Infrastructure" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,npm" alt="Development Tools" />
 </p>
 
 ---
 
 # 💼 Professional Experience
 
-## Full Stack Engineer — Sappey Foods
+## Full Stack Engineer — Sappey Foods PVT. LTD.
 
 **Mar 2026 – Present · Remote**
 
@@ -211,23 +208,23 @@ Building a unified commerce platform as a **sole engineer**, owning the product 
 ### Key Contributions
 
 * Architected and developed customer-facing and administrative systems.
-* Built backend services using **Node.js, PostgreSQL and Supabase**.
+* Built backend services using **Node.js, PostgreSQL, and Supabase**.
 * Implemented payment workflows using **Razorpay**.
 * Designed inventory reservation and order lifecycle logic.
-* Built product, customer, order and operational workflows.
+* Built product, customer, order, and operational workflows.
 * Managed production infrastructure on **Linux VPS**.
-* Configured **Nginx, PM2 and Cloudflare R2**.
-* Worked end-to-end across architecture, development and deployment.
+* Configured **Nginx, PM2, and Cloudflare R2**.
+* Worked end-to-end across architecture, development, and deployment.
 
 **Stack:** `React.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Razorpay` · `Nginx` · `PM2` · `Cloudflare R2`
 
 ---
 
-## Senior Full Stack Engineer — GWARM Technologies
+## Senior Full Stack Engineer — GWARM Technologies PVT. LTD.
 
 **Apr 2025 – Feb 2026 · Jaipur, India**
 
-Worked on logistics, fleet management and business operations platforms while leading and mentoring a team of **6–7 engineers**.
+Worked on logistics, fleet management, and business operations platforms while leading and mentoring a team of **6–7 engineers**.
 
 ### Key Contributions
 
@@ -236,9 +233,9 @@ Worked on logistics, fleet management and business operations platforms while le
 * Developed backend microservices using **Node.js & PostgreSQL**.
 * Implemented event-driven workflows using **RabbitMQ**.
 * Built fleet tracking and route-related functionality using **Google Maps API & PostGIS**.
-* Worked with **AWS EC2, S3 and RDS**.
+* Worked with **AWS EC2, S3, and RDS**.
 * Implemented CI/CD pipelines using **GitHub Actions**.
-* Integrated order, inventory and shipment workflows with external platforms.
+* Integrated order, inventory, and shipment workflows with external platforms.
 * Contributed to scalable backend architecture and business-critical workflows.
 
 **Stack:** `Next.js` · `Node.js` · `PostgreSQL` · `RabbitMQ` · `PostGIS` · `Google Maps API` · `AWS`
@@ -259,8 +256,8 @@ Developed an e-commerce and building-material marketplace supporting **5,000+ SK
 * Integrated **Shopify GraphQL APIs**.
 * Integrated **Vinculum middleware**.
 * Worked extensively with MongoDB and PostgreSQL.
-* Contributed across frontend, backend, database and business logic.
-* Built workflows around catalogue, orders, vendors and operations.
+* Contributed across frontend, backend, database, and business logic.
+* Built workflows around catalogue, orders, vendors, and operations.
 
 **Stack:** `React.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Shopify GraphQL`
 
@@ -270,7 +267,7 @@ Developed an e-commerce and building-material marketplace supporting **5,000+ SK
 
 ## 🛒 Unified Commerce Platform
 
-A complete commerce ecosystem covering customer storefronts, administration, inventory, orders and payments.
+A complete commerce ecosystem covering customer storefronts, administration, inventory, orders, and payments.
 
 ### Engineering Highlights
 
@@ -290,7 +287,7 @@ A complete commerce ecosystem covering customer storefronts, administration, inv
 
 ## 🚚 Logistics & Fleet Management Platform
 
-A business platform designed around fleet operations, order synchronization, route management and shipment workflows.
+A business platform designed around fleet operations, order synchronization, route management, and shipment workflows.
 
 ### Engineering Highlights
 
@@ -333,7 +330,7 @@ A building-material marketplace supporting thousands of products and multiple op
 
 I enjoy working on problems where engineering goes beyond writing components or APIs.
 
-My approach is to understand the **business workflow first**, then design the architecture, database, APIs and infrastructure around it.
+My approach is to understand the **business workflow first**, then design the architecture, database, APIs, and infrastructure around it.
 
 ### I care about
 
